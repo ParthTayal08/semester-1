@@ -1,3 +1,3 @@
-# About Me
+firstname = "Parth"
 
-Using the resources linked in examples, have a go at making a quick about you page using Markdown.
+print("Hey my name is", firstname," and I like to play football")
